@@ -36,5 +36,7 @@ public class LoginPage3 {
 		public void clickOnSignButton()
 		{
 			Signbutton.click();
+			
+			
 		}
 }
